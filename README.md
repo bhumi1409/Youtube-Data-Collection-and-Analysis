@@ -20,7 +20,7 @@ This project is designed to collect and analyze data from YouTube videos using t
 
   - **API Setup:**
    - Obtain your YouTube Data API key from the [Google Cloud Console](https://console.cloud.google.com/).
-   - Create a `config.py` file in the project root directory and add your API key:
+   -  add your API key:
      ```python
      API_KEY = 'YOUR_API_KEY'
      ```
